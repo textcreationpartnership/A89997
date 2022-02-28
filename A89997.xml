@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New news from Cornvvall, Being a most true relation of the strange behaviour of the cavaliers in that countie. Fully related in two letters from persons of good quality and reputation living in that county, unto speciall friends of theirs living in London.</title>
+            <title>New news from Cornwall</title>
+            <author>I. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89997</idno>
+            <idno type="STC">Wing N686</idno>
+            <idno type="STC">Thomason E124_20</idno>
+            <idno type="STC">ESTC R6050</idno>
+            <idno type="EEBO-CITATION">99872941</idno>
+            <idno type="PROQUEST">99872941</idno>
+            <idno type="VID">125388</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89997)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125388)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E124[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New news from Cornvvall, Being a most true relation of the strange behaviour of the cavaliers in that countie. Fully related in two letters from persons of good quality and reputation living in that county, unto speciall friends of theirs living in London.</title>
+                  <title>New news from Cornwall</title>
+                  <author>I. C.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Octob. 27. London, Printed for Ioshua Kirton,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed by I. C., Plimouth, 20 October 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cornwall (England : County) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125388:1" rendition="simple:additions"/>
+            <p>New News from CORNVVALL, Being a moſt true Re<g ref="char:EOLhyphen"/>lation of the ſtrange behaviour of the Cavaliers in that Countie.</p>
+            <p>Fully related in two Letters from perſons of good quality and reputation living in that County, unto ſpeciall friends of theirs living in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Octob.</hi> 27. LONDON, Printed for <hi>Ioſhua Kirton,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125388:2"/>
+            <pb n="1" facs="tcp:125388:2"/>
+            <head>The Copy of two Letters from CORN<g ref="char:EOLhyphen"/>WAL, concerning the late actions of the Kings and Parliaments Forces there.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter the Sheriff of our County had ſent abroad his Warrants for <hi>poſſe Comitatus,</hi> to ſuppreſſe certain forces and unlawfull Aſſemblies gathered together againſt the Law, who ſaid Sir <hi>Richard Vivyan</hi> came to <hi>Truro,</hi> the day before the appea<g ref="char:EOLhyphen"/>rance, being the Law Court day when the new Major was choſen, but before hee was ſworne, the Knight came to the ſtairs of the Town-hall, and prayed to ſpeak with the Major, who comming to him, he ſaid; hee would advize the Towne to come forth and ſend out their Arms, for that it was no Muſter but a Command by Statute Law, upon paine of Impriſonment and Fine and Ranſome at the Kings pleaſure, and that it would fall heavy upon them if they came not forth; the Major replyed, that it concerned every particular man in his own perſon to appeare, but for any man to require another mans Arms (as at Muſters) he ſaw no ſuch power in the Sta<g ref="char:EOLhyphen"/>tute, and that for his part if any that had Arms aſſeſſed on them would goe, he would not diſcourage them; but Sir <hi>Richard Vyvian</hi> did ſo affright the Com<g ref="char:EOLhyphen"/>mons who were gathered together about them with the danger of the Law, and ſo perſwade them with the Kings Service, and that they knew not what unlawfull Aſſemblies were gathered in many parts of the County to the dan<g ref="char:EOLhyphen"/>ger of their lives, their wives, and children if they came not out to aſſiſt the Sheriffe and Juſtices; and that hee was their Colonell, and adviſed for their good, and would take it kindly of them. All this ſo wrought upon them, as they were on fire to goe in all haſte, and came to the Major in the Court, and required the Town Arms, and the Magiſtrates Arms, but the Maior anſwered
+<pb n="2" facs="tcp:125388:3"/>
+they ſhould have none, for that none was required to ſeeke other mens Arms, and if they had any Arms aſſeſſed on them ſelves, they might doe what they would, if they had none they need not goe; but they ſaid they would goe how<g ref="char:EOLhyphen"/>ever, and complaine to the Sheriff for want of the Arms, hee ſaid he cared not if they did, for he knew no unlawfull Aſſemblies to be ſuppreſſed: Afterwards when the new Major was choſen, hee asked the Townes advice what to doe, ſome ſaid no Armour was required in the Statute, but only by the Warrant, and that was no Rule for them without Law; but the Recorder being not preſent (but refuſing to come for feare of himſelfe, and returning no advice about it, as hee was intreated twice by letter from the former Major;) the Town Counſell being one maſter <hi>Hoblyn,</hi> perſwaded them by all means to goe forth, and ſend forth the Arms, elſe they would be deeply fined, and the Maior in danger of great trouble, which hearing, moſt voices were to ſend forth the Arms, though three or foure ſtill denied and ſaid, they would goe forth too, but their Arms ſhould never be carried againſt the Parliament, they would die rather; but the maior part by the Counſels meanes prevailed, which had the Recorder beene there they had not done; well, out they came the next day all of them (or moſt part) and ſent the Arms; but ſome kept their men with them, and would not ſuffer them to goe in among the Bands, but brought them home along with them the next day; but the firſt day came a great number, I think neer fifteene or ſixteen thouſand men but I think not above foure thouſand armed; propoſi<g ref="char:EOLhyphen"/>tions were ſent by the Committe to the Sheriffe and Gentlemen, who agreed to chooſe ſix Treaties on each ſide, and to meet next day at <hi>Red-yet</hi> in Saint <hi>Cleer,</hi> halfe way between <hi>Bodmin</hi> and <hi>Lanceſton,</hi> where Sir <hi>Richard Buller</hi> was with ſix or ſeven hundred men; but when they met, the Sheriffe and his ſide (with the Troopers) drew up new Articles of their own ſo unreaſonable as the Com<g ref="char:EOLhyphen"/>mittee could not (commendably or conſcionably agree unto; the Treaty there<g ref="char:EOLhyphen"/>upon broke of, and the Treaties returned, whereupon they that did not bring back their men and Arms with them the firſt night were ſtopped; for the ſecond day (being warned over night to, meet againe next day) they ſuddenly had word to march forward towards <hi>Lanceſton,</hi> which they did; every Cap. leading his Company, and every Colonell his Regiment: but by what power I know not, unleſſe the Sheriff gave them any power ſo to traine and muſter; for the Commiſſion of Lievtenancie is void, and the <hi>Militia</hi> ſide appeared not, and for the Array there was no power neither, for the Lord <hi>Mohun</hi> hath deſerted the cauſe, and did not appear at all among them, which did at firſt ſomewhat daunt them, but the great appearance of the County upon this plot of the She<g ref="char:EOLhyphen"/>riffs Warrant (adviſed by <hi>Ioſeph Ianc,</hi> and <hi>George Spry,</hi> as is conceived for their
+<pb n="3" facs="tcp:125388:3"/>
+owne ends) put them in ſuch a height of Pride and Inſolency, as they thought it an invincible Army; and quartered Wedneſday about <hi>Lisbord,</hi> and Thurſ<g ref="char:EOLhyphen"/>day ſome letters paſt betweene Sir <hi>Richard Buller</hi> out of <hi>Lanceſton</hi> unto ſome of the Gentlemen with the Sheriffe, as Maſter <hi>Baſſet</hi> and others, who appoin<g ref="char:EOLhyphen"/>ted to come into <hi>Lanceſton</hi> that evening to treate againe with him and the reſt of the Committees, but Maſter <hi>Baſſet</hi> came not according to promiſe, which made the Committee feare ſome ſudden ſurpriſe, and the People of the Towne cryed out lamentably to Sir <hi>Richard Buller</hi> to depart the Towne, elſe they ſhould be all killed, for the Sheriffe had by that time got twentie or thirtie thouſand; and had ſent new Warrants and threatning meſſages to thoſe that would not appeare, that they ſhould bee hanged at their doores, which ſo terrified the people, as all the Weſt part came out except Saint <hi>Ives</hi> (who petitioned for themſelves for feare of <hi>Ireland</hi>) and all along, except the Pariſhes that ſerved under the Committees: Sir <hi>Ri<g ref="char:EOLhyphen"/>chard Buller,</hi> and the Committees hearing the cryes of the Towne, and the rage of the Army, (ſet on by the Sheriffe and <hi>Iohn Arundel</hi> of <hi>Trevie,</hi> Sir <hi>Nicholas Slaney,</hi> Sir <hi>Bevill Greenvile,</hi> Sir <hi>Richard Vivian,</hi> Sir <hi>Peter Courtny,</hi> and infinite other Collonels, Captaines, and others, calling the Parliaments ſide Rebels and Round-heads, and threatning to chop them in pieces, and beat downe the houſes, did account it the wiſeſt courſe (and to avoid effuſion of blood being at ſuch infinite diſadvantage) by night privately to ride away; and after he was gone ſent to the Army in the Towne to get away with all ſpeed, which they did in a confuſed manner, ſo as they left much of their Arms behind them, and ſome they loſt on the way; ſo as on Friday morning the Sheriffe had notice they were all gone and the Towne gates ſet open; then they all came with great triumph into the Town as Conquerours, where there was no enemy to reſiſt; but then the baſer ſort of Rogues fell a plundering of ſome houſes, the firſt was Maſter <hi>Ambroſe Manningtons</hi> houſe (a Juſtice of Peace neere the Church within the Towne) they brake out a great window and ſtole away all his Plate, Pewter, Clothes, and Houſhold-ſtuffe, or the greateſt part of it tooke his Writings and Deeds and Leaſes, and tare many of them, yet that Gentleman Maſter <hi>Mannington</hi> was not againſt them, but a meane party betweene both ſtriving by all meanes to make Peace, only hee dwelt there; and when Sir <hi>Richard Buller</hi> rode away he went with him &amp; lockt up his dores, and thus was <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bbed; And ſome other houſes were broken up, as Captaine <hi>Bennets</hi> and M<gap reason="illegible" resp="#UOM" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <hi>Bolithous,</hi> and ſome ſay two or three other; But when the Sheriffe and <gap reason="illegible" resp="#UOM" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> heard it, they made Proclamation to
+<pb n="4" facs="tcp:125388:4"/>
+apprehend the Theeves, and got backe aſmuch of the goods as they could find into the houſes againe, though much be loſt, and much ſpoile done, and neere twentie of them in the Gaole for it. On Saturday the Sheriffe and Juſtices held a privie Seſſions there at <hi>Launceston,</hi> to preſent and indite all that tooke up Armes with Sir <hi>Richard Buller,</hi> as cauſers of Riots and unlawfull aſſemblies, and all that came not with them againſt the Committee, and cauſed every Conſtable and others to bring in the Names of all that appeared not, and tooke oath for it, and doe purpoſe to ſend Warrants to apprehend them and impriſon them, or Fine them &amp; diſtraine them; Among whom I am complai<g ref="char:EOLhyphen"/>ned againſt, and ſhall (I doubt not) heare ſhortly of it: Then they reſolved on Munday to advance towards Salt-Aſh, and leave a Garriſon at <hi>Launceston,</hi> but hearing they of Salt-Aſh would not reſiſt (but open their Gates) they came not thither, but gave out they would march into Devonſhire towards <hi>Plimoth,</hi> if Devonſhire men had given the leaſt aſſiſtance to our Committee, which they thought to doe, as by their letter appeareth, to which the Sheriffe and Gentle<g ref="char:EOLhyphen"/>men anſwered peremptorily as you may ſee incloſed, and upon their quiet reply all was ſtayed; and ſo their Army disbanded, and every man returned home, with ſuch baſe exclamation upon the Committees, calling them Round-heads and Run-awayes, and with extreame violence and madneſſe ſo as I never heard the like.</p>
+            <p>Thus you have the full Relation of the firſt part of the Chronicle of <hi>Corn<g ref="char:EOLhyphen"/>walls</hi> ſecond Commotion; The next part muſt bee of the Parliaments ſide, which is expected daily.</p>
+            <div type="letter">
+               <pb n="5" facs="tcp:125388:4"/>
+               <opener>
+                  <salute>Deare Friend,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Doe deſire to informe you, and my friends with you; how things are with us, when Sir <hi>Ralph Hopton</hi> and the Cavaliery came into <hi>Cornwall,</hi> Sir <hi>Richard Buller</hi> and the Committee endeavoured to reſiſt them, but were unhappy in the ſucceſſe, Sir <hi>Richard</hi> repaires to <hi>Launceston;</hi> where he had 9. Colours, many Gentlemen were heartie in the cauſe; The Seſſions was about that time at <hi>Trurow</hi> and <hi>Loſtwithiell,</hi> where they indict Sir <hi>Ralph Hopton</hi> and his Con<g ref="char:EOLhyphen"/>federates for comming into the County in a hoſtile manner, he tra<g ref="char:EOLhyphen"/>verſeth his judgement there and appeares at <hi>Trurow,</hi> where the Ju<g ref="char:EOLhyphen"/>rie (being a pact Jurie as they uſe to call it) freed him, and maſter <hi>Humphrey Noy</hi> being Foreman, makes a ſhort Speech to Sir <hi>Ralph</hi> in way of thankfulneſſe to him for his comming into the County, for ſecuring of the Gentlemen from that violence intended to them by Sir <hi>Richard Buller,</hi> at the cloſe whereof there was a plaudite in the Hall; Then there was an Inditement framed againſt Sir <hi>Ri<g ref="char:EOLhyphen"/>chard Buller</hi> for a Ryot, which was ſpeedily found (ſuch a preſi<g ref="char:EOLhyphen"/>dent I beleeve never was) and to ſuppreſſe him, the Juſtices of the Peace require a <hi>poſſe comitatus,</hi> the Sheriffe gives out his War<g ref="char:EOLhyphen"/>rants withall expedition, and the people as readily obey, for by <hi>Loſtwithiell</hi> there appeared, as is credibly reported 25000. or 30000. in ſo much as it was a rare thing to ſee a man about <hi>Tru<g ref="char:EOLhyphen"/>row,</hi> or in any of the Weſterne parts; from thence they advance toward <hi>Launceſton,</hi> where Sir <hi>Richard</hi> with his ſmall Force lay, being promiſed ayd from <hi>Devon,</hi> but diſappointed, hee deſired the <hi>Devon</hi> men onely to ſecure <hi>Polſon</hi> Bridge, that he might have a place of retreat, but could not obtaine it; whereupon hee was conſtrained to leave the Towne, and disband, ſo that all <hi>Cornwall</hi> is under the command of Sir <hi>Ralph</hi> and his Troopers, they are now
+<pb n="6" facs="tcp:125388:5"/>
+600 horſe at Salt Aſh with 300. Foot which puts the Towne of <hi>Plimoth</hi> in great feare, yet they are in a poſture able to reſiſt 5000, if they ſhould aſſault them, the Towne is very hearty for the King and Parliament, but in the meane <hi>Cornwall</hi> is loſt, we expected ayd from the Parliament long ſince, but as yet none is come; I pray God the publicke cauſe doe not ſuffer by it, all good Mini<g ref="char:EOLhyphen"/>ſters and Chriſtians almoſt have left <hi>Cornwall,</hi> and take ſan<g ref="char:EOLhyphen"/>ctuary at <hi>Plimouth.</hi> Many <hi>Corniſh</hi> and <hi>Devon</hi> Miniſters are come here, poore Chriſtians, like baniſhed exiles leave their home, the Cavalliers have plundered many houſes, and threaten poore Mi<g ref="char:EOLhyphen"/>niſters and Chriſtians; Moſt part of our Gentlemen are here. Sir <hi>Richard Buller</hi> and his Family, Maſter <hi>Irefuſis Ereſey,</hi> Sir <hi>Awbin Godolphin, Trevenrag Ellyet,</hi> with divers others here are three Commanders come, but no Foot nor Troopes, I pray GOD they may come timely or we are undone; The names of the Com<g ref="char:EOLhyphen"/>manders are, Collonel <hi>Ruthen,</hi> Captaine <hi>Stevenſon</hi> with other Valiant Scots; there is a brave Troope of Horſe in Towne about 80. Voluntiers of the Towneſmen theſe the Commanders Exer<g ref="char:EOLhyphen"/>ciſe almoſt every day upon the <hi>Howe</hi> there is a brave young Gen<g ref="char:EOLhyphen"/>tleman, one Captaine <hi>Dickes,</hi> who hearing the Cavaliers inten<g ref="char:EOLhyphen"/>ded to come to <hi>Saltaſh</hi> went up with 200. of his Company; There were there formerly 200. of <hi>Plimouth,</hi> and he reſolved to make good the Towne againſt that huge Armie, but the Mayor would not permit him, they are ſo zealous for the publicke cauſe as they deſire to be doing.</p>
+               <closer>
+                  <signed>Your reall Friend, <hi>I. C.</hi>
+                  </signed>
+                  <dateline>Plimonth <date>the 20. of October, 1642.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
